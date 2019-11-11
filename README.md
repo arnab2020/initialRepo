@@ -1,0 +1,2 @@
+# initialRepo
+Test Git fundamental.
